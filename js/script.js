@@ -11,6 +11,7 @@ createApp({
     data(){
         return{
             messaggio: "Hello Vue!!",
+            pathImg: "https://miro.medium.com/v2/resize:fit:900/1*OrjCKmou1jT4It5so5gvOA.jpeg"
         };
     }
 }).mount("#container")
